@@ -7,6 +7,9 @@ Replace `{HOSTNAME}` occurrences to your dedicated host name in the following fi
 - `src/Client.php`
 - `src/Xml/Generator.php`
 
+SANDBOX/TEST ENV = test-gateway.tillpayments.com
+PRODUCTION ENV = gateway.tillpayments.com
+
 ## Usage:
 
 ```php
